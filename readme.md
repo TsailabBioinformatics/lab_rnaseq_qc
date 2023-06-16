@@ -1,4 +1,4 @@
-# Templates for RNA-Seq
+# Templates for RNA-Seq lab specific QC
 
 ## Instructions
 
